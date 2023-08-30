@@ -11,7 +11,7 @@ See composer.json
 composer require toastnz/socialposter
 ```
 
-Set up field mapping
+## Configuration
 ```yml
 
 Page:
