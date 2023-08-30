@@ -1,0 +1,20 @@
+{
+    "name": "toastnz/socialposter",
+    "description": "Integration with Social Poster API service",
+    "type": "silverstripe-vendormodule",
+    "keywords": ["silverstripe", "facebook", "instagram", "linkedin", "social", "page", "posts"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Leandro Palmieri",
+            "homepage": "https://toast.co.nz",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "^4 || ^5",
+        "silverstripe/vendor-plugin": "^1 || ^2",
+        "guzzlehttp/guzzle": "^6 || ^7",
+        "unclecheese/display-logic": "~2 || ~3"
+    }
+}
